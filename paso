@@ -1,3 +1,9 @@
-1 instalar npm
-2 instalar exprex
-3 instalar socket.io 
+1 instalar npm  =  npm init
+2 instalar express  = npm install express --save
+3 instalar socket.io = npm install socket.io --save
+-- save es para que descargue la dependencia en el proyecto
+4 instalar nodemon --save-dev
+-- save-dev es para que sea una dependencia de desarrollo y no se balla a un servidor de produccion
+5 se crea el servidor 
+6 se lansa el dervidor con npm start
+
